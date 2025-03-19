@@ -1,0 +1,1 @@
+**Este juego tiene distintas funcionalidades que se solicitaron en el Desafío, tales como poder crear una lista de amigos, agregar amigos, sortear amigos, y tiene alertas cuando no ingresan un nombre (campo vacío), así como que requiere de un nombre para sortear.**
